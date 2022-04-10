@@ -1399,3 +1399,51 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.10-00.20.23:542][561]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
 [2022.04.10-00.20.23:828][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFolder/NewBlueprint" FILE="../../../../../ue4project/Prometheus/Prometheus/Content/NewFolder/NewBlueprint.uasset" SILENT=true
 [2022.04.10-00.20.23:835][561]LogSavePackage: Moving '../../../../../ue4project/Prometheus/Prometheus/Saved/NewBlueprint2D8B75A4466A4170DBECF197ADFF3C56.tmp' to '../../../../../ue4project/Prometheus/Prometheus/Content/NewFolder/NewBlueprint.uasset'
+[2022.04.10-00.21.04:036][561]LogSlate: Window 'Submit Files' being destroyed
+[2022.04.10-00.21.04:361][561]SourceControl: Error: Updated 0 paths from the index
+[2022.04.10-00.21.04:537][561]SourceControl: On branch main
+[2022.04.10-00.21.04:537][561]SourceControl: Your branch is up to date with 'origin/main'.
+[2022.04.10-00.21.04:537][561]SourceControl: Changes not staged for commit:
+[2022.04.10-00.21.04:537][561]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2022.04.10-00.21.04:537][561]SourceControl:   (use "git restore <file>..." to discard changes in working directory)
+[2022.04.10-00.21.04:537][561]SourceControl: 	modified:   Saved/Logs/Prometheus.log
+[2022.04.10-00.21.04:537][561]SourceControl: Untracked files:
+[2022.04.10-00.21.04:537][561]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2022.04.10-00.21.04:537][561]SourceControl: 	Saved/Logs/Git-TempF60AE6C44B50BC09EBFC0FA4965BAD96.txt
+[2022.04.10-00.21.04:537][561]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2022.04.10-00.21.04:596][562]AssetCheck: New page: Asset Save: NewBlueprint
+[2022.04.10-00.21.04:596][562]LogContentValidation: Display: Validating Blueprint /Game/NewFolder/NewBlueprint.NewBlueprint
+[2022.04.10-00.21.08:998][796]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Content: 'Z:/ue/UE_4.27/Engine/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.21.08:998][796]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'Z:/ue/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.21.08:998][796]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.21.08:998][796]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.21.08:998][796]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.21.08:998][796]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.21.08:998][796]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'Z:/ue/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.21.08:998][796]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.21.08:998][796]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.21.08:998][796]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.21.08:998][796]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.21.08:998][796]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.21.08:998][796]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.21.08:998][796]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.21.08:998][796]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.21.08:999][796]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.21.08:999][796]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.21.08:999][796]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.21.08:999][796]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.21.08:999][796]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.21.08:999][796]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.21.08:999][796]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.21.08:999][796]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.21.08:999][796]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'Z:/ue/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.21.08:999][796]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.21.08:999][796]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.21.09:132][796]EditorErrors: Warning: No assets to check in!
+[2022.04.10-00.27.35:719][822]SourceControl: Error: Connection Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2022.04.10-00.27.44:721][ 29]SourceControl: Error: Connection Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2022.04.10-00.31.34:596][892]SourceControl: Error: Connection Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2022.04.10-00.31.42:528][299]SourceControl: Source control is disabled
+[2022.04.10-00.31.42:529][299]LogSlate: Window 'Source Control Login' being destroyed
+[2022.04.10-00.31.47:698][789]SourceControl: Error: Connection Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2022.04.10-00.32.18:926][302]LogSlate: Window 'Source Control Login' being destroyed
