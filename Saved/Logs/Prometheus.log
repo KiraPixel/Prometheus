@@ -886,3 +886,97 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.10-00.10.15:067][  0]LogAssetRegistry: Asset discovery search completed in 5.8536 seconds
 [2022.04.10-00.10.15:073][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
 [2022.04.10-00.10.15:075][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.04.10-00.10.23:569][499]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.04.10-00.10.54:167][721]LogSlate: Window 'Source Control Login' being destroyed
+[2022.04.10-00.11.05:375][297]Cmd: DELETE
+[2022.04.10-00.11.05:375][297]Cmd: ACTOR DELETE
+[2022.04.10-00.11.05:376][297]LogEditorActor: Deleted Actor: Pawn
+[2022.04.10-00.11.05:382][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.04.10-00.11.05:383][297]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2022.04.10-00.11.05:942][351]LogActorFactory: Actor Factory created Cube
+[2022.04.10-00.11.07:364][476]LogActorFactory: Actor Factory created Cube
+[2022.04.10-00.11.09:264][649]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.12:326][649]LogSlate: Window 'Save Level As' being destroyed
+[2022.04.10-00.11.12:342][649]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.10-00.11.12:368][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../ue4project/Prometheus/Prometheus/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.10-00.11.12:374][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.04.10-00.11.12:511][649]LogSavePackage: Moving '../../../../../ue4project/Prometheus/Prometheus/Saved/NewMapC16FD5A94845623CC9A938BC291C53FD.tmp' to '../../../../../ue4project/Prometheus/Prometheus/Content/NewMap.umap'
+[2022.04.10-00.11.12:864][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../ue4project/Prometheus/Prometheus/Content/NewMap_BuiltData.uasset" SILENT=true
+[2022.04.10-00.11.12:918][649]LogSavePackage: Moving '../../../../../ue4project/Prometheus/Prometheus/Saved/NewMap_BuiltData20D8795C46425D8D8C9C68AB5375A8A2.tmp' to '../../../../../ue4project/Prometheus/Prometheus/Content/NewMap_BuiltData.uasset'
+[2022.04.10-00.11.13:181][649]LogFileHelpers: Saving map 'NewMap' took 0.845
+[2022.04.10-00.11.13:184][649]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.10-00.11.13:184][649]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap_BuiltData.NewMap_BuiltData
+[2022.04.10-00.11.13:184][649]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
+[2022.04.10-00.11.13:211][651]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.10-00.11.13:332][664]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.19:925][312]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Content: 'Z:/ue/UE_4.27/Engine/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.19:925][312]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'Z:/ue/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.19:925][312]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.19:925][312]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.19:925][312]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.19:925][312]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.19:925][312]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'Z:/ue/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.19:925][312]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.19:925][312]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.19:925][312]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.19:925][312]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.19:925][312]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.19:925][312]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.19:925][312]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.19:925][312]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.19:925][312]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.19:925][312]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.19:925][312]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.19:925][312]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.19:925][312]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.19:926][312]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.19:926][312]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.19:926][312]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.19:926][312]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'Z:/ue/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.19:926][312]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.19:926][312]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.20:202][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../ue4project/Prometheus/Prometheus/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.10-00.11.20:208][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.04.10-00.11.20:219][312]LogSavePackage: Moving '../../../../../ue4project/Prometheus/Prometheus/Saved/NewMapF6EA9C4041D9C5670DB3869A2F8F2252.tmp' to '../../../../../ue4project/Prometheus/Prometheus/Content/NewMap.umap'
+[2022.04.10-00.11.20:221][312]LogFileHelpers: Saving map 'NewMap' took 0.019
+[2022.04.10-00.11.20:221][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../ue4project/Prometheus/Prometheus/Content/NewMap_BuiltData.uasset" SILENT=true
+[2022.04.10-00.11.20:327][312]LogSavePackage: Moving '../../../../../ue4project/Prometheus/Prometheus/Saved/NewMap_BuiltData06E908D74A4DFED744A1CAB4DFC27F88.tmp' to '../../../../../ue4project/Prometheus/Prometheus/Content/NewMap_BuiltData.uasset'
+[2022.04.10-00.11.25:526][312]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.10-00.11.25:526][312]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.10-00.11.36:222][312]LogSlate: Window 'Submit Files' being destroyed
+[2022.04.10-00.11.36:893][312]LogSourceControl: commit successful: [main 31bde0a] test publication
+[2022.04.10-00.11.36:959][312]SourceControl: [main 31bde0a] test publication
+[2022.04.10-00.11.36:959][312]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2022.04.10-00.11.36:959][312]SourceControl:  create mode 100644 Content/NewMap.umap
+[2022.04.10-00.11.36:959][312]SourceControl:  create mode 100644 Content/NewMap_BuiltData.uasset
+[2022.04.10-00.11.36:974][312]SourceControl: Commited [main 31bde0a] test publication.
+[2022.04.10-00.11.37:015][313]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.10-00.11.37:015][313]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap_BuiltData.NewMap_BuiltData
+[2022.04.10-00.11.37:015][313]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
+[2022.04.10-00.11.44:463][ 29]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Content: 'Z:/ue/UE_4.27/Engine/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.44:464][ 29]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'Z:/ue/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.44:464][ 29]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.44:464][ 29]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.44:464][ 29]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.44:464][ 29]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.44:464][ 29]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'Z:/ue/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.44:464][ 29]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.44:464][ 29]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.44:464][ 29]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.44:464][ 29]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.44:464][ 29]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.44:464][ 29]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.44:464][ 29]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.44:464][ 29]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.44:464][ 29]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.44:464][ 29]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.44:464][ 29]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.44:464][ 29]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.44:464][ 29]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.44:464][ 29]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.44:464][ 29]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.44:464][ 29]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.44:464][ 29]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'Z:/ue/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.44:464][ 29]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.44:464][ 29]SourceControl: fatal: Z:/ue/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'Z:/ue/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'Z:/ue4project/Prometheus/Prometheus'
+[2022.04.10-00.11.44:603][ 29]EditorErrors: Warning: No assets to check in!
